@@ -5,7 +5,7 @@
 ## [Parse and Parse: MIME Validation Bypass to XSS via Parser Differential](https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential) (CTBB Lab)
 
 <div class="page_information">
-  <p>January 31, 2025</p>
+  <p>January 31, 2026</p>
 </div>
 
 > This research is an extension of [`Content-Type` research from BlackFan](https://github.com/BlackFan/content-type-research/tree/master). More specifically, the [response `Content-Type` tricks](https://github.com/BlackFan/content-type-research/blob/master/XSS.md#response-content-type-tricks). Unfortunately, the multiple `Content-Type` trick is not clearly explained by BlackFan. Therefore, I’ll explain and demonstrate how a single comma character can cause parsing difference between the browser and different MIME type parser libraries.
