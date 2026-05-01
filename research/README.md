@@ -2,7 +2,7 @@
 
 * * *
 
-## [Parse and Parse: MIME Validation Bypass to XSS via Parser Differential](https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential) (CTBB Lab)
+## [Parse and Parse: MIME Validation Bypass to XSS via Parser Differential](https://siunam321.github.io/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential) ([CTBB Lab link](https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential))
 
 <div class="page_information">
   <p>January 31, 2026</p>

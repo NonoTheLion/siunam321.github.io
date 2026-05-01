@@ -25,12 +25,13 @@ Started on 12nd March 2022, I started to learn ethical hacking much deeper, and 
 
 ## List of CVEs
 
-- Total number of CVEs: 28
+- Total number of CVEs: 29
 
 <details><summary markdown="span"><strong>CVEs Table</strong></summary>
 
 | CVE ID | Vendor | Vulnerability Title & Record Link |
 |--------|-------------|-----------------------------------|
+| [CVE-2026-7567](https://www.cve.org/CVERecord?id=CVE-2026-7567) | [Temporary Login](https://wordpress.org/plugins/temporary-login) | [Authentication Bypass to Account Takeover](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/temporary-login/temporary-login-100-authentication-bypass-to-account-takeover) |
 | [CVE-2025-55195](https://www.cve.org/CVERecord?id=CVE-2025-55195) | [@std/toml](https://github.com/denoland/std) | [@std/toml Prototype Pollution in Node.js and Browser](https://github.com/denoland/std/security/advisories/GHSA-crjp-8r9q-2j9r) |
 | [CVE-2025-54803](https://www.cve.org/CVERecord?id=CVE-2025-54803) | [js-toml](https://github.com/sunnyadn/js-toml) | [Prototype Pollution in js-toml](https://github.com/sunnyadn/js-toml/security/advisories/GHSA-65fc-cr5f-v7r2) |
 | [CVE-2025-3234](https://www.cve.org/CVERecord?id=CVE-2025-3234) | [Filester](https://wordpress.org/plugins/filester/) | [Authenticated (Administrator+) Arbitrary File Upload](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/filester/file-manager-pro-filester-188-authenticated-administrator-arbitrary-file-upload) |
