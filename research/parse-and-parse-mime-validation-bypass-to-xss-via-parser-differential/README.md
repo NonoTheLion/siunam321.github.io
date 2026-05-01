@@ -2,7 +2,7 @@
 date: 2026-01-28
 author: siunam
 permalink: /research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential/index.html
-title: Parse and Parse: MIME Validation Bypass to XSS via Parser Differential
+title: "Parse and Parse: MIME Validation Bypass to XSS via Parser Differential"
 description: "This research is an extension of Content-Type research from BlackFan. More specifically, the response Content-Type tricks. Unfortunately, the multiple Content-Type trick is not clearly explained by BlackFan. Therefore, I'll explain and demonstrate how a single comma character can cause a parsing difference between the browser and different MIME type parser libraries."
 ---
 
